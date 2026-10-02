@@ -2,6 +2,6 @@
   "latestVersion": 2,
   "latestDisplayVersion": "1.0.1",
   "type": "fix",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp.apk",
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v1.0.1.apk",
   "changelog": "Исправлен краш при логине"
 }
