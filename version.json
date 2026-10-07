@@ -1,7 +1,7 @@
 {
-  "latestVersion": 10,
-  "latestDisplayVersion": "3.4.3",
+  "latestVersion": 11,
+  "latestDisplayVersion": "3.5.3",
   "type": "update",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v3.4.3.apk",
-  "changelog": "Обновление жалобы полтзователей"
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v3.5.3.apk",
+  "changelog": "Обновление sentry-функционал"
 }
