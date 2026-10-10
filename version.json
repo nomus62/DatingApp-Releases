@@ -1,7 +1,7 @@
 {
-  "latestVersion": 15,
-  "latestDisplayVersion": "5.7.6",
+  "latestVersion": 16,
+  "latestDisplayVersion": "6.8.7",
   "type": "update",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v5.7.6.apk",
-  "changelog": "Обновление audio и исправления входа"
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v6.8.7.apk",
+  "changelog": "Обновления и исправления багов"
 }
