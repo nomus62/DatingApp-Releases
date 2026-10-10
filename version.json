@@ -1,7 +1,7 @@
 {
-  "latestVersion": 16,
-  "latestDisplayVersion": "6.8.7",
+  "latestVersion": 17,
+  "latestDisplayVersion": "7.0.0",
   "type": "update",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v6.8.7.apk",
-  "changelog": "Обновления и исправления багов"
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v7.0.0.apk",
+  "changelog": "Обновления подписки"
 }
