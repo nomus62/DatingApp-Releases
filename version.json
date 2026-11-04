@@ -1,7 +1,7 @@
 {
-  "latestVersion": 46,
-  "latestDisplayVersion": "1.5.0",
+  "latestVersion": 47,
+  "latestDisplayVersion": "1.5.1",
   "type": "update",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v1.5.0.apk",
-  "changelog": "Обновления безопасности"
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v1.5.1.apk",
+  "changelog": "Обновления безопасности и запросов"
 }
