@@ -1,7 +1,7 @@
 {
-  "latestVersion": 49,
-  "latestDisplayVersion": "1.5.3",
-  "type": "update",
-  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v1.5.3.apk",
-  "changelog": "Обновления соглашение"
+  "latestVersion": 50,
+  "latestDisplayVersion": "1.5.4",
+  "type": "fix",
+  "downloadUrl": "https://guqhbnouzbkzecflygyo.supabase.co/storage/v1/object/public/releases/com.ha.datingapp-v1.5.4.apk",
+  "changelog": "Исправления багов"
 }
